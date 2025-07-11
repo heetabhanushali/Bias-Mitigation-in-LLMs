@@ -7,12 +7,11 @@ A comprehensive framework for detecting, measuring, and mitigating bias in Large
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Installation & Usage](#installation-&-usage)
+- [Installation & Usage](#installation)
 - [Datasets Used](#datasets-used)
 - [Supported Bias Types](#supported-bias-types)
 - [Mitigation Techniques](#mitigation-techniques)
 - [Evaluation Metrics](#evaluation-metrics)
-- [License](#license)
 
 ## Overview
 
@@ -57,8 +56,8 @@ bias-mitigation-llm/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd bias-mitigation-llm
+   git clone https://github.com/heetabhanushali/Bias-Mitigation-in-LLMs.git
+   cd Bias-Mitigation-in-LLMs
    ```
 
 2. **Create and activate virtual environment:**
@@ -129,19 +128,14 @@ bias-mitigation-llm/
 If you use this project in your research, please cite:
 
 ```bibtex
-@misc{bias-mitigation-llm,
-  title={Bias Mitigation in Large Language Models: A Comprehensive Framework},
-  author={[Your Name]},
-  year={2025},
-  howpublished={\url{https://github.com/yourusername/bias-mitigation-llm}}
-}
+
 ```
 
 ## Contact
 
 For questions, issues, or suggestions, please:
 - Open an issue on the GitHub
-- Contact the maintainers at [email@example.com]
+- Contact the maintainers at [heetabhanushali@gmail.com]
 
 ---
 
