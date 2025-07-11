@@ -110,16 +110,16 @@ bias-mitigation-llm/
 
 ## Evaluation Metrics
 
-## WEAT (Word Embedding Association Test)
+### WEAT (Word Embedding Association Test)
 - Measures association between identity terms and attributes (like pleasant/unpleasant) using word embeddings
 
-## CAT (Cloze-style Association Test)
+### CAT (Cloze-style Association Test)
 - Cloze-style fill-in-the-blank test for detecting implicit bias in completions
 
-## Toxicity Detection
+### Toxicity Detection
 - Uses Detoxify or Perspective API to measure offensive or toxic language
 
-## Custom IBS (Intrinsic Bias Score)
+### Custom IBS (Intrinsic Bias Score)
 - Intrinsic Bias Score combining contextual and identity-aligned embeddings to score intersectional bias
 
 
